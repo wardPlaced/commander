@@ -7,7 +7,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/SimonBaeumer/commander/pkg/runtime"
+	"github.com/commander-cli/commander/pkg/runtime"
 	"github.com/stretchr/testify/assert"
 )
 
